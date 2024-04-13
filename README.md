@@ -25,9 +25,9 @@ Former Mechanical engineer, diving into the world of code, and loving every bit 
 **📄 Documenting the Adventure:**
 
 Let's keep it straightforward! Stay tuned for simple, detailed guides on completed projects! 🚀📖
-<hr/>
 
-Let's explore, learn, and grow together!
+
+**Let's explore, learn, and grow together!**
 
 <!---
 hamid-jaafary/hamid-jaafary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
