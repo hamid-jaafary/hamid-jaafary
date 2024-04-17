@@ -16,7 +16,7 @@ Former Mechanical engineer, diving into the world of code, and loving every bit 
 
 - `Front-End:` Hands-on experience with React, creating intuitive user interfaces.
 
-- `Identity and Access Management (IAM):` Implemented Keycloak comprehensively, covering Resource Owner Password Credentials, authorization code, and client credential flows for Authn & Authz.
+- `Identity and Access Management (IAM):` Implemented Keycloak comprehensively, covering resource owner password credentials, authorization code, and client credential flows for Authn & Authz.
 
 - `Logging and Analytics:` Implemented a TLS-enabled ELK-B Stack setup. Ongoing exploration into additional ELK features and other beats implementation.
 
