@@ -2,7 +2,7 @@
 
 Hey there, coding pals! 👋 
 
-Former Mechanical engineer, diving into the world of code, and loving every bit of it! Here to share my coding escapades and lessons learned.
+Former Mechanical engineer, diving into the world of code, and loving every bit of it! Here to share my coding experiences and lessons learned.
 
 <hr/>
 
@@ -25,9 +25,6 @@ Former Mechanical engineer, diving into the world of code, and loving every bit 
 **📄 Documenting the Adventure:**
 
 Let's keep it straightforward! Stay tuned for simple, detailed guides on completed projects! 🚀📖
-
-
-**Let's explore, learn, and grow together!**
 
 <!---
 hamid-jaafary/hamid-jaafary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
