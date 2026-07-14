@@ -1,16 +1,14 @@
-**🚀 Journeying from Gears to Code**
-
-Hey there, coding pals! 👋 
+Hey there! 
 
 Former Mechanical engineer, diving into the world of code, and loving every bit of it! Here to share my coding experiences and lessons learned.
 
 <hr/>
 
-📚 Always learning, always curious. As a self-taught enthusiast, I thrive on embracing the challenges of the ever-evolving software landscape.
+As a self-taught enthusiast, I thrive on embracing the challenges of the ever-evolving software landscape.
 
 <hr/>
 
-**💻 Tech Focus:**
+**Tech Focus:**
 
 - `Back-End:` Primarily immersed in the Spring Boot ecosystem, continuously evolving and exploring.
 
@@ -22,9 +20,9 @@ Former Mechanical engineer, diving into the world of code, and loving every bit 
 
 <hr/>
 
-**📄 Documenting the Adventure:**
+**Documenting the Adventure:**
 
-Let's keep it straightforward! Stay tuned for simple, detailed guides on completed projects! 🚀📖
+Stay tuned for simple, detailed guides on completed projects! 
 
 <!---
 hamid-jaafary/hamid-jaafary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
